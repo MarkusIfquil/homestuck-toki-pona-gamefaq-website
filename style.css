@@ -41,7 +41,6 @@ header {
     align-self: center;
     font-family: 'Courier New', Courier, monospace;
     width: clamp(0.01em, 80ch,100ch);
-    border: 2px solid red;
     padding: 2.5em;
 }
 
